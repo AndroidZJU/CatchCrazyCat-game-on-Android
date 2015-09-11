@@ -1,4 +1,4 @@
-# CatchCrazyCat-game-on-Android
+# CatchCrazyCat game on Android
 An Android version of the recent HTML-based wechat game "Catch the Crazy Cat"
 
 Game Instruction:
